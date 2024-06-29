@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Experience
+title: 个人经历
 permalink: /experience/
 main_nav: true
 ---
